@@ -77,8 +77,8 @@ def make_csv_file():
     if url:
         text = soup.get_text()
 
-        with open("new_file.csv", 'w') as csvfile:
-            csvwriter = csv.writer(csvfile)
+        with open("new_file.txt", 'w') as csvfile:
+            csvwriter = text.writer(csvfile)
             # Split the text into lines and write each line as a separate row in the CSV file
             for line in text.split('\n'):
                 csvwriter.writerow([line])
@@ -222,11 +222,21 @@ if button:
 
     if url:
 
-        make_csv_file()
+        #make_csv_file()
         title = st.text_input("Title", str(find_title_name().lower()))
         #st.write(find_title_name().lower(), title)
         author = st.text_input("Author", find_author_name().lower())
         date = st.text_input("Publish Date", find_publish_date().lower())
+
+        col3, col4 = st.columns([3, 3])
+
+        with col3:
+            cancel = st.button("Cancel/Enter different URL")
+
+        # Button in the second column
+        with col4:
+            st.write("")  # Adding empty space for alignment
+            submit = st.button("Submit")
         #st.write(find_author_name().lower(), author)
 
         #final output formatting in streamlit

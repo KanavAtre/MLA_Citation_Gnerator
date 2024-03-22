@@ -1,0 +1,89 @@
+I'm sure you had better things to do on Saturday evening than watch Donald Trump rant for nearly two hours to an audience of cheering fans in Rome, Georgia.
+His speech was rambling, unhinged, vituperative, and oh-so-revealing. In his first rally since effectively clinching the Republican Presidential nomination,
+Trump made what amounted to his response to Joe Biden’s State of the Union address. It’s hard to imagine a better or more pointed contrast with the vision that,
+ two days earlier, the President had laid out for America.
+
+And yet, like so much about Trump’s 2024 campaign, this insane oration was largely overlooked and under-covered, the flood of lies and B.S. seen
+as old news from a candidate whose greatest political success has been to acclimate a large swath of the population to his ever more dangerous alternate reality.
+No wonder Biden, trapped in a real world of real problems that defy easy solutions, is struggling to defeat him.
+
+
+This is partly a category error. Though we persist in treating the 2024 election as a race between an incumbent and a challenger,
+ it is not that so much as a contest between two incumbents: Biden, the actual President, and Trump, the forever-President of Red America’s fever dreams.
+ But Trump, while he presents himself as the country’s rightful leader, gets nothing like the intense scrutiny for his speeches that is now focussed on the current
+  occupant of the Oval Office. The norms and traditions that Trump is intent on smashing are, once again, benefitting him.
+
+Consider the enormous buildup before, and wall-to-wall coverage of, Biden’s annual address to Congress. It was big news when the
+President called out his opponent in unusually scathing terms, referring thirteen times in his prepared text to “my predecessor” in what was,
+ understandably, seen as a break with tradition. Republican commentators grumbled about the sharply partisan tone of the President’s remarks
+ and the loud decibel in which he delivered them; Democrats essentially celebrated those same qualities.
+
+
+ 1. Big Data Is Boosting Intelligent Behavior in Machines
+Machine learning (ML) and artificial intelligence (AI) are becoming dominant problem-solving techniques in many areas of research and industry,
+not least because of the recent successes of deep learning (DL). However, the equation AI=ML=DL, as recently suggested in the news, blogs, and media,
+falls too short. These fields share the same fundamental hypotheses: computation is a useful way to model intelligent behavior in machines.
+What kind of computation and how to program it? This is not the right question. Computation neither rules out search, logical, and probabilistic techniques,
+ nor (deep) (un)supervised and reinforcement learning methods, among others, as computational models do include all of them. They complement each other,
+ and the next breakthrough lies not only in pushing each of them but also in combining them.
+
+Big Data is no fad. The world is growing at an exponential rate and so is the size of the data collected across the globe.
+Data is becoming more meaningful and contextually relevant, breaking new grounds for machine learning (ML), in particular for deep learning (DL)
+and artificial intelligence (AI), moving them out of research labs into production (Jordan and Mitchell, 2015). The problem has shifted from
+collecting massive amounts of data to understanding it—turning it into knowledge, conclusions, and actions. Multiple research disciplines,
+from cognitive sciences to biology, finance, physics, and social sciences, as well as many companies believe that data-driven and “intelligent”
+solutions are necessary to solve many of their key problems. High-throughput genomic and proteomic experiments can be used to enable personalized medicine.
+Large data sets of search queries can be used to improve information retrieval. Historical climate data can be used to understand global warming and to
+better predict weather. Large amounts of sensor readings and hyperspectral images of plants can be used to identify drought conditions and to gain insights
+into when and how stress impacts plant growth and development and in turn how to counterattack the problem of world hunger. Game data can turn pixels
+into actions within video games, while observational data can help enable robots to understand complex and unstructured environments and to learn manipulation skills.
+
+However, is AI, ML, and DL really synonymous, as recently suggested in the news, blogs, and media?
+For example, when AlphaGo (Silver et al., 2016) defeated South Korean Master Lee Se-dol in the board game Go in 2016,
+the terms AI, ML, and DL were used by the media to describe how AlphaGo won. In addition to this, even Gartner's list
+(Panetta, 2017) of top 10 Strategic Trends for 2018 places (narrow) AI at the very top, specifying it as
+“consisting of highly scoped machine-learning solutions that target a specific task.”
+
+
+Black holes are some of the strangest and most fascinating objects in space. They're extremely dense, with such strong gravitational
+attraction that not even light can escape their grasp.
+
+The Milky Way could contain over 100 million black holes, though detecting these gluttonous beasts is very difficult.
+ At the heart of the Milky Way lies a supermassive black hole — Sagittarius A*. The colossal structure is about 4 million
+ times the mass of the sun and lies approximately 26,000 light-years away from Earth, according to a statement from NASA.
+
+The first image of a black hole was captured in 2019 by the Event Horizon Telescope (EHT) collaboration. The striking photo
+of the black hole at the center of the M87 galaxy 55 million light-years from Earth thrilled scientists around the world.
+
+
+
+Quantum physics is the study of matter and energy at the most fundamental level. It aims to uncover the properties and behaviors of the very building blocks of nature.
+
+While many quantum experiments examine very small objects, such as electrons and photons, quantum phenomena are all around us,
+acting on every scale. However, we may not be able to detect them easily in larger objects. This may give the wrong impression that
+ quantum phenomena are bizarre or otherworldly. In fact, quantum science closes gaps in our knowledge of physics to give us a more
+ complete picture of our everyday lives.
+
+Quantum discoveries have been incorporated into our foundational understanding of materials, chemistry, biology, and astronomy.
+These discoveries are a valuable resource for innovation, giving rise to devices such as lasers and transistors, and enabling real progress
+ on technologies once considered purely speculative, such as quantum computers. Physicists are exploring the potential of quantum science to
+ transform our view of gravity and its connection to space and time. Quantum science may even reveal how everything in the universe
+ (or in multiple universes) is connected to everything else through higher dimensions that our senses cannot comprehend.
+
+ Phoenix Suns shooting guard Devin Booker has already established himself
+ as one of the best players in the league, and perhaps already one of the best in franchise history.
+
+When it comes to his status in the all-time ranks, there's still plenty of work to do.
+A championship would help bolster his resume, and that could very well happen this season
+after a handful of moves have elevated Phoenix to official "championship or now" status -
+ if they weren't there already.
+
+It's unknown precisely where the two were at or what they were talking about, though it's always nice to see two greats show love to each other.
+
+Despite Phoenix's most recent early exit in the postseason,
+Booker captured the attention of the entire basketball world by putting himself in Jordan's
+company by becoming the first player since 23 himself back in 1992 to average a minimum of 35 points
+a game over the first eight games of a postseason.
+
+
+ 
